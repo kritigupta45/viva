@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Data Analytics Fundamentals",
+        "slug": "data-analytics-fundamentals",
+        "description": "Learn the basics of data analytics with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Generative AI for Beginners",
+        "slug": "generative-ai-for-beginners",
+        "description": "Start your tech journey with foundational generative ai skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Advanced Data Science",
+        "slug": "advanced-data-science",
+        "description": "Enhance your skills with advanced data science for intermediate to advanced learners.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/vocalist.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Product Mastery",
+        "slug": "product-mastery",
+        "description": "Master the product with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Data Analysis Begins",
+        "slug": "data-improvisation",
+        "description": "Learn the art of data improvisation with this course designed for all levels.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/jazz.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Product Design Fundamentals",
+        "slug": "product-design-fundamentals",
+        "description": "Dive into product building with this introductory course on the basics of product engineering and ui/ux.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      }
+    ]
+  }
+  
